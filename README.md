@@ -1,5 +1,5 @@
-# 🦠 COVID-19 SQL Analysis
-This project is an **end-to-end SQL analysis of COVID-19 deaths and mortality trends** using MySQL. It focuses on exploring global death patterns, comparing covid vs non-covid deaths, and calculating metrics like mortality rate and excess deaths.
+# 🦠 COVID SQL Analysis
+This project is an **end-to-end SQL analysis of COVID deaths and mortality trends** using MySQL. It focuses on exploring global death patterns, comparing covid vs non-covid deaths, and calculating metrics like mortality rate and excess deaths.
 ---
 ## 📂 Dataset
 * Data contains columns such as:
